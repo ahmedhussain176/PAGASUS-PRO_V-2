@@ -296,15 +296,10 @@ python encrypt_pegasus.py --input payload.py --output update.bin
 
 ---
 
-## 📝 License
 
-See [LICENSE](LICENSE) file in this directory.
+## 👨‍💻 Developed By
 
----
-
-## 👨‍💻 Created By
-
-**Demo || Developer**  
+                                                              **Demo || Developer**  
 🔗 Instagram: [@ahmed_hussain006](https://instagram.com/ahmed_hussain006)
 
 *"Advanced mobile security research tools for authorized professionals"*
