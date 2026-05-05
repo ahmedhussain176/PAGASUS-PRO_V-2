@@ -16,7 +16,7 @@ PEGASUS is an advanced Android device control and monitoring framework designed 
 **Status**: Active Development  
 **Latest Version**: 1.2  
 **Language**: Python 3.8+  
-**Target Platform**: Android 5.0+  
+**Target Platform**: Android 14.0+  
 
 ---
 
