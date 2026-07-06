@@ -298,12 +298,16 @@ python encrypt_pegasus.py --input payload.py --output update.bin
 ---
 
 
-## 👨‍💻 Developed By
+# 👨‍💻 Developer
 
-                                                              **Demo || Developer**  
-🔗 Instagram: [@ahmed_hussain006](https://instagram.com/ahmed_hussain006)
+**AHMED HUSSAIN**
 
-*"Advanced mobile security research tools for authorized professionals"*
+                                                               **Demo || Developer**  
+ 
+
+                                            Red Hat Hacker • Full Stack Developer • Security Researcher
+
+                                       *"Advanced mobile security research tools for authorized professionals"*
 
 ---
 
