@@ -297,6 +297,8 @@ python encrypt_pegasus.py --input payload.py --output update.bin
 
 ---
 
+## License
+All rights reserved. This repository is shared for viewing only; no license is granted for reuse, modification, or redistribution.
 
 # 👨‍💻 Developer
 
